@@ -1,0 +1,6 @@
+@MovieBE_HostAddress = http://localhost:5122
+
+GET {{MovieBE_HostAddress}}/GetMovies/
+Accept: application/json
+
+###
